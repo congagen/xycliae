@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{C233A795-AC9C-2603-41D7-784B377D64D9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/01_Scripts/00_System/ControlPanel.cs">
+    <Files>
+      <File FileName="Assets/01_Scripts/00_System/ControlPanel.cs" Line="513" Column="5" />
+      <File FileName="Assets/01_Scripts/03_Data/ProjectData.cs" Line="23" Column="29" />
+      <File FileName="Assets/01_Scripts/99_Plugins/dataFile/readme.txt" Line="11" Column="26" />
+      <File FileName="Assets/01_Scripts/99_Plugins/dataFile/dataFileList.cs" Line="114" Column="47" />
+      <File FileName="Assets/01_Scripts/02_Audio/Cursor.cs" Line="125" Column="89" NotebookId="1" />
+      <File FileName="Assets/01_Scripts/02_Audio/NoteMgmt.cs" Line="130" Column="31" NotebookId="1" />
+      <File FileName="Assets/01_Scripts/00_System/ProjectDataMgmt.cs" Line="36" Column="26" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

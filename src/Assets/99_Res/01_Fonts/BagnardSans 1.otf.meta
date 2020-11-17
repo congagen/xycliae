@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f2177381cb4174fdb9eda810ee62b474
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bagnard
+  fontNames:
+  - Bagnard
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33b8f1262ed664f0d8884dfeee454ca1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

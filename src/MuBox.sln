@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E8F5A54F-0024-C50C-A185-D405F0B3A321}") = "MuBox", "Assembly-CSharp.csproj", "{9EA734C8-3283-C8E5-7B5C-7022CC71B003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA734C8-3283-C8E5-7B5C-7022CC71B003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA734C8-3283-C8E5-7B5C-7022CC71B003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA734C8-3283-C8E5-7B5C-7022CC71B003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA734C8-3283-C8E5-7B5C-7022CC71B003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
