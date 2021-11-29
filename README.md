@@ -1,7 +1,5 @@
 # XYCLIAE (Unity3D)
 
-Xycliae is an experimental music application inspired by John Whitney's Music Box
-
 ## Usage
 #### Sequence Modes:
 - 0: Random
