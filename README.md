@@ -1,4 +1,6 @@
 # XYCLIAE (Unity3D)
+Generative ~instrument inspired by John Whitney's music box
+
 
 ## Usage
 #### Sequence Modes:
